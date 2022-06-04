@@ -3,9 +3,10 @@
 
 
 # viz-a-day
-Sho-Viz extension.  Goals: Post a viz daily!
+Sho-Viz extension.  
+Just posting a viz daily - no context or cause on here (I do storytelling on other platforms), so feel free to feel what you feel!
 
-*All data visualizations on here are my original. Feel free to ask me anything about the process!
+*All data visualizations on here are my original. Contact me for anything about the process!
 <br>
 
 Title|Code/Tool|Viz|Data

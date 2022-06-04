@@ -41,12 +41,12 @@ total_rides <- c(dim(dat2002)[1], dim(dat2003)[1], dim(dat2004)[1], dim(dat2005)
 df_month_total <- data.frame(months, total_rides)
 
 ggplot(df_month_total, aes(x = months, y = total_rides)) +
-  geom_line(group = 1, color = "#D9261C") +
-  labs(title = "Total Usage of NYC Bikeshare from Feb. 2020 to Jan. 2022", x = "Year/Month", y = "", caption = "source: https://s3.amazonaws.com/tripdata/index.html") +
+  geom_line(group = 1, color = "deeppink3") +
+  labs(title = "Total Usage of Bikeshare in NYC during Covide Era", x = "", y = "", caption = "source: https://s3.amazonaws.com/tripdata/index.html") +
   theme(text = element_text(color = "white"),
         axis.text.x = element_text(angle = 45, hjust = 1,  color = "white"),
         axis.text.y = element_text(angle = 45, hjust = 1, color = "white"),
         plot.background = element_rect(fill = "#003870"),
         panel.background = element_rect(fill = "aliceblue"),
         strip.background.x = element_rect(fill = "white"),
-        plot.title = element_text(size = 18, face = "bold", color = "white"))
+        plot.title = element_text(size = 18, face = "bold", color = "white")) 

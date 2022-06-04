@@ -1,5 +1,5 @@
 
-![](img/viz-a-day_line.svg)
+![](img/viz-a-day_line.png)
 
 
 # viz-a-day

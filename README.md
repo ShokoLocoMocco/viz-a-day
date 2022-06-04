@@ -11,7 +11,7 @@ Just posting a viz daily - mostly spin-offs, no context or cause on here (I do s
 
 Title|Code/Tool|Viz|Data
 -|-|-|-
-**Citibike Usage during Covid Era**|[**R**](codes/shoviz1_citi-line.r)|<a href = "viz/citibike_plot.png"><img src = "https://github.com/ShokoLocoMocco/viz-a-day/blob/c6c6e9df793be94349d1b778ee4f5b8eca3e2435/viz/citibike_plot.png" width=300></a>|https://s3.amazonaws.com/tripdata/index.html
+**Citibike Usage during Covid Era**|[**R**](codes/shoviz1_citi-line.r)|<a href = "viz/citibike_lineplot.png"><img src = "viz/citibike_lineplot.png" width=300></a>|https://s3.amazonaws.com/tripdata/index.html
 
 
 <br>

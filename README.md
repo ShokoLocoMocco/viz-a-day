@@ -5,4 +5,6 @@
 # viz-a-day
 Sho-Viz extension.  Goals: Post a viz daily!
 
-- [Bikeshare Usage in NYC during COVID-19 and after vaccination](https://github.com/ShokoLocoMocco/viz-a-day/blob/main/citibike_plot.png)
+viz|Tool|Code
+-|-|-
+[viz/citibike_plot.png](viz/citibike_plot.png)|R|

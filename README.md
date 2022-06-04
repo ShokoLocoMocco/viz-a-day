@@ -4,7 +4,8 @@
 
 # viz-a-day
 Sho-Viz extension.  Goals: Post a viz daily!
-*Each viz here is my original. Feel free to ask me anything about the process!
+
+*All data visualizations on here are my original. Feel free to ask me anything about the process!
 
 Title|Code/Tool|Viz|Source
 -|-|-|-

@@ -4,7 +4,7 @@
 
 # viz-a-day
 Sho-Viz extension.  
-Just posting a viz daily - no context or cause on here (I do storytelling on other platforms), so feel free to feel what you feel!
+Just posting a viz daily - mostly spin-offs, no context or cause on here (I do storytelling on other platforms) so feel free to feel what you feel!
 
 *All data visualizations on here are my original. Contact me for anything about the process!
 <br>

@@ -42,11 +42,16 @@ df_month_total <- data.frame(months, total_rides)
 
 ggplot(df_month_total, aes(x = months, y = total_rides)) +
   geom_line(group = 1, color = "deeppink3") +
-  labs(title = "Total Usage of Bikeshare in NYC during Covide Era", x = "", y = "", caption = "source: https://s3.amazonaws.com/tripdata/index.html") +
+  labs(title = "Total Usage of Bikeshare in NYC during Covid Era", x = "", y = "", caption = "source: https://s3.amazonaws.com/tripdata/index.html") +
   theme(text = element_text(color = "white"),
         axis.text.x = element_text(angle = 45, hjust = 1,  color = "white"),
         axis.text.y = element_text(angle = 45, hjust = 1, color = "white"),
         plot.background = element_rect(fill = "#003870"),
         panel.background = element_rect(fill = "aliceblue"),
         strip.background.x = element_rect(fill = "white"),
-        plot.title = element_text(size = 18, face = "bold", color = "white")) 
+        plot.title = element_text(size = 18, face = "bold", color = "white")) +
+  geom_vline(aes(xintercept = 2.5), color = "red") +
+  annotate(geom = "text", label = "NYS Stay-at-Home", x = 5.3, y = 2750000, color = "red") +
+  annotate(geom = "text", label = "Executive Order", x = 5, y = 2600000, color = "red")
+
+

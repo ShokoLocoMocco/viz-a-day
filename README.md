@@ -7,4 +7,4 @@ Sho-Viz extension.  Goals: Post a viz daily!
 
 viz|Tool|Code
 -|-|-
-[viz/citibike_plot.png](viz/citibike_plot.png)|R|
+[](viz/citibike_plot.png)|R|

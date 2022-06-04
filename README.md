@@ -6,6 +6,7 @@
 Sho-Viz extension.  Goals: Post a viz daily!
 
 *All data visualizations on here are my original. Feel free to ask me anything about the process!
+<br>
 
 Title|Code/Tool|Viz|Source
 -|-|-|-

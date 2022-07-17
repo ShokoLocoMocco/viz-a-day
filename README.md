@@ -19,4 +19,6 @@ Title|Code/Tool|Viz|Data
 <br>
 <br>
 <br>
+IG: https://www.instagram.com/sho.viz.today/
+
 copyright (c) Showee of Sho-Viz-A-Day
